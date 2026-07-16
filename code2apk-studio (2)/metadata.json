@@ -1,0 +1,6 @@
+{
+  "name": "Code2APK Studio",
+  "description": "A powerful offline code editor for HTML/CSS/JS and Python, with a simulated 1-click cloud APK builder to run web projects as native applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
